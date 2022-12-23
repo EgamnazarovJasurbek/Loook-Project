@@ -1,0 +1,27 @@
+/*
+user{
+    userId
+    name    
+    phone
+},
+
+foods {
+    foodsId
+    name
+    img
+},
+
+order{
+    foodsId : userId
+}
+
+
+//
+    Data moduling
+        relational model  (Malumotlar shakllantiradi) tablisa shaklida
+
+        1. one to one (birga bir bog'lanish)
+        2. one to many (birga ko'p bog'lanish)
+        3. many to many (ko'pga ko'pga bog'lanish)
+//
+*/
